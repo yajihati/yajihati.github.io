@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yajihati.github.io/sitemap/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/yLT/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/HVc/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/QRi/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/ubE/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/aZH/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/nso/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/UFi/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/Bpd/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/xSd/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/idY/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/MiT/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/oyb/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/LFl/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/cle/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/WwR/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/bBW/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/FRu/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/emD/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/gua/sitemap_index.yajihati
+Sitemap: https://yajihati.github.io/UNC/sitemap_index.yajihati
